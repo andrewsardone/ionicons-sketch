@@ -8,8 +8,8 @@ All of the great [Ionicons](http://ionicons.com) (the premium icon font for
 
 ### Why?
 
-Quicker copy-and-paste of these icons within a Sketch document that repeatedly
-importing the [Ionicons source
+Quicker copy-and-paste of these icons within a Sketch document rather than
+repeatedly importing the [Ionicons source
 SVGs](https://github.com/driftyco/ionicons/tree/master/src).
 
 ### TODO
